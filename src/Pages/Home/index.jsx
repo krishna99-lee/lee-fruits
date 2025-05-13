@@ -20,7 +20,7 @@ export default function Home() {
                                         <div className="row">
                                             <div className="col-lg-12">
                                                 <div className="cr-left-side-contain slider-animation">
-                                                    <h5><span>10%</span> Organic Fruits</h5>
+                                                    <h5><span>100%</span> lee Fruits</h5>
                                                     <h1>Explore fresh &amp; juicy fruits.</h1>
                                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet reiciendis
                                                         beatae consequuntur.</p>
